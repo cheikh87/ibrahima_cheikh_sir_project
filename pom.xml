@@ -6,7 +6,7 @@
   
   
   
-  <name>MvnTestApp</name>
+  <name>projet_sir</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -18,9 +18,10 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
-      <scope>test</scope>
+      <scope>projet_sir</scope>
     </dependency>
   </dependencies>
+
 
 
   
